@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoStop</string>
+    <string name="text_go">하자!</string>
+    <string name="text_stop">말자!</string>
+</resources>
